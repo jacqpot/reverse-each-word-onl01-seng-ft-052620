@@ -8,13 +8,13 @@ def reverse_each_word(string)
 end
 
 
-def reverse_each_word(words)
-  word = []
+# def reverse_each_word(words)
+#   word = []
   
-  word << words.split(' ')
-  word.each do |opposit|
-    puts opposit.reverse()
-  end 
-end
+#   word << words.split(' ')
+#   word.each do |opposit|
+#     puts opposit.reverse()
+#   end 
+# end
   
 
